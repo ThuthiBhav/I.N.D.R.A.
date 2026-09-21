@@ -85,4 +85,3 @@ The prototype is evaluated using:
 MATLAB/          MATLAB simulation and algorithm files
 Simulink/        Simulink system model
 Demo/            Demonstration links
-Documentation/   Project documentation
