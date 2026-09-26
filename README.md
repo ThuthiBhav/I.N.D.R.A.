@@ -1,4 +1,4 @@
-# INDRA – Adaptive Autonomous Navigation for Unstructured Indian Roads
+# INDRA - Adaptive Autonomous Navigation for Unstructured Indian Roads
 
 ### SIH26037
 
